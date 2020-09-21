@@ -1,10 +1,9 @@
 {
   "name": "cursor-next-line",
   "main": "./lib/cursor-next-line",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom package that allows to move a cursor to a new line using SHIFT+ENTER shortcut",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "cursor-next-line:move"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
